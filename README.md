@@ -4,7 +4,7 @@
 # ABOUT
 This API provides functionality for managing product inventory in an e-commerce platform. It allows admins to add products, list products, delete products, and update product quantities. The API is built using Node.js and MongoDB.
 
-**STEPS TO USE THE API: **
+**STEPS TO USE THE API:**
 1) Type "npm install" command in view section of terminal 
 1) run "npm init" command on terminal 
 2) start the server using "node app.js"
