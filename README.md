@@ -9,7 +9,7 @@ This API provides functionality for managing product inventory in an e-commerce 
 1) run "npm init" command on terminal 
 2) start the server using "node app.js"
 3) Open postman using https://www.postman.com/
-4) Make a GET request on localhost:3000/products
+4) Make a GET request on http://localhost:3000/products
 5) The products should be visible
 
 
